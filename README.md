@@ -19,7 +19,7 @@
 | #   | Project Name          | Description                          | Live Demo | Difficulty  |
 |-----|-----------------------|--------------------------------------|-----------|-------------|
 | 01  | To-Do List            | Manage tasks with local storage      | [Demo](https://yourusername.github.io/HTML-CSS-JS--100-Projects/project-01-todo-list/) | Beginner    |
-| 02  | Weather Dashboard     | Real-time weather using OpenWeather API | [Demo](...) | Intermediate |
+| 02  | Creative-Loading-Animation     | Designed Loading Animation | [Demo](https://abdul-sami-abbasi.github.io/HTML-CSS-JS--100-Projects./project-02-Creative-Loading-Animation/) | Beginner |
 | 03  | Animated Portfolio    | Responsive portfolio with CSS animations | [Demo](...) | Intermediate |
 | 04  | E-commerce Cart       | Product cart with dynamic pricing    | [Demo](...) | Advanced    |
 | ... | ...                   | ...                                  | ...       | ...         |

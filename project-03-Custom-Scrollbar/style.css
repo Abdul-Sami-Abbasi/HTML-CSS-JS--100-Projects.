@@ -1,0 +1,90 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background: crimson;
+}
+
+.card{
+    max-width: 700px;
+    background: #ccc;
+    margin: 20px;
+    padding: 20px;
+    line-height: 28px;
+}
+
+::-webkit-scrollbar{
+    background: transparent;
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(#21D4FD, #B721FF);
+    height: 10px;
+    border-radius: 10px;
+} */
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background: crimson;
+}
+
+section {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 20px;
+}
+
+.card{
+    background: #ccc;
+    padding: 20px;
+    line-height: 28px;
+    border-radius: 8px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+}
+
+::-webkit-scrollbar{
+    background: transparent;
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(#21D4FD, #B721FF);
+    border-radius: 10px;
+}
+
+/* Tablet and larger screens */
+@media (min-width: 768px) {
+    section {
+        grid-template-columns: repeat(2, 1fr);
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+}
+
+/* Desktop screens */
+@media (min-width: 1024px) {
+    section {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .card-title {
+        font-size: 1.5rem;
+    }
+}

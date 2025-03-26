@@ -19,7 +19,7 @@
 | #   | Project Name          | Description                          | Live Demo | Difficulty  |
 |-----|-----------------------|--------------------------------------|-----------|-------------|
 | 01  | Background Video      | Stunning Background video page      | [Demo](https://abdul-sami-abbasi.github.io/HTML-CSS-JS--100-Projects./project-01-bg-video/) | Beginner    |
-| 02  | Creative-Loading-Animation     | Designed Loading Animation | [Demo](https://abdul-sami-abbasi.github.io/HTML-CSS-JS--100-Projects./project-02-Creative-Loading-Animation/) | Beginner |
+| 02  | Loading-Animation     | Designed Loading Animation | [Demo](https://abdul-sami-abbasi.github.io/HTML-CSS-JS--100-Projects./project-02-Creative-Loading-Animation/) | Beginner |
 | 03  | Custom Scrollbar   | Responsive Custom Scrollbar with CSS | [Demo](https://abdul-sami-abbasi.github.io/HTML-CSS-JS--100-Projects./project-03-Custom-Scrollbar/) | Beginner |
 | 04  | E-commerce Cart       | Product cart with dynamic pricing    | [Demo](...) | Advanced    |
 | ... | ...                   | ...                                  | ...       | ...         |

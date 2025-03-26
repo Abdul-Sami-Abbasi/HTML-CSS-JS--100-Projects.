@@ -1,7 +1,7 @@
 # 🌟 HTML/CSS/JS 100 Projects Challenge
 
 **A curated collection of 100 hands-on web projects to master frontend development.**  
-[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-Available-brightgreen)](https://yourusername.github.io/HTML-CSS-JS--100-Projects/)
+[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-Available-brightgreen)](https://Abdul-Sami-Abbasi.github.io/HTML-CSS-JS--100-Projects/)
 
 ---
 

@@ -22,8 +22,8 @@
 | 02  | Loading-Animation     | Designed Loading Animation | [Demo](https://abdul-sami-abbasi.github.io/HTML-CSS-JS--100-Projects./project-02-Creative-Loading-Animation/) | Beginner |
 | 03  | Custom Scrollbar   | Responsive Custom Scrollbar with CSS | [Demo](https://abdul-sami-abbasi.github.io/HTML-CSS-JS--100-Projects./project-03-Custom-Scrollbar/) | Beginner |
 | 04  | Creative Image Effect | Creativity project (Image)  | [Demo](https://abdul-sami-abbasi.github.io/HTML-CSS-JS--100-Projects./project-04-Creative-Image-Hover-Effect/) | Beginner    |
-| 05  | Background Video      | Stunning Background video page      | [Demo](https://abdul-sami-abbasi.github.io/HTML-CSS-JS--100-Projects./project-01-bg-video/) | Beginner    |
-| 06  | Background Video      | Stunning Background video page      | [Demo](https://abdul-sami-abbasi.github.io/HTML-CSS-JS--100-Projects./project-01-bg-video/) | Beginner    |
+| 05  | ---      | ---      | [Demo](https://abdul-sami-abbasi.github.io/HTML-CSS-JS--100-Projects./project-01-bg-video/) | Beginner    |
+| 06  | ---      | ---      | [Demo](https://abdul-sami-abbasi.github.io/HTML-CSS-JS--100-Projects./project-01-bg-video/) | Beginner    |
 | 07  | Creative Image Effect   | Dynamic Image Effect      | [Demo](https://abdul-sami-abbasi.github.io/HTML-CSS-JS--100-Projects./project-07-Creative-Image-Effect/) | Beginner    |
 | 08  | Background Video      | Stunning Background video page      | [Demo](https://abdul-sami-abbasi.github.io/HTML-CSS-JS--100-Projects./project-01-bg-video/) | Beginner    |
 | ... | ...                   | ...                                  | ...       | ...         |
